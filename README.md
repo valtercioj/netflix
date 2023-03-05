@@ -42,7 +42,7 @@ Projeto criado com o objetivo de praticar o uso do Next Js e Tailwind. Criando a
 
 ## 🔖 Layout
 
-Você pode visualizar o projeto através [desse link]().
+Você pode visualizar o projeto através [desse link](http://netflix-six-sooty.vercel.app).
 
 ## :memo: Licença
 
